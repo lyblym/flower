@@ -143,7 +143,7 @@ header .icons a:hover{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background:URL(../assets/photo_3_2025-08-05_15-14-45.jpg);
+    background:URL(/assets/photo_3_2025-08-05_15-14-45.jpg);
     background-size: cover;
     background-position: center;
 }
